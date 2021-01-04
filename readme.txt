@@ -15,3 +15,4 @@
 	ReadConfig
 	ParseUrlPattern
 	
+	test upload test 
