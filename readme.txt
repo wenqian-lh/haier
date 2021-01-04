@@ -15,4 +15,4 @@
 	ReadConfig
 	ParseUrlPattern
 	
-	test upload test 
+	test upload test  clone
